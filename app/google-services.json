@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "366244831620",
+    "project_id": "codegama-606eb",
+    "storage_bucket": "codegama-606eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366244831620:android:7ee5f2fd37c02b5d0d7dd1",
+        "android_client_info": {
+          "package_name": "com.parithidb.cgnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366244831620-cehqq0hlpfkrf0i6trd19ckafbsqp6eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parithidb.cgnews",
+            "certificate_hash": "1e8972afddfa1fe58ee53a4dadc71353c1121044"
+          }
+        },
+        {
+          "client_id": "366244831620-ot9gvpa3vgd91u1s6aa5g90u6foon7ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_c5VrkqDQe5GJAdMN3dnA5EwclDkvEPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366244831620-ot9gvpa3vgd91u1s6aa5g90u6foon7ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
