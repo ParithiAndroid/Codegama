@@ -6,11 +6,12 @@ A simple Android news app to fetch and display the latest news articles using th
 
 ## Features
 
-- Search for news articles in India.
+- Search for news articles.
 - Display news articles with title, description, image, and publication date.
 - Open full articles in a WebView.
 - Clear search input using end icon.
 - Smooth RecyclerView list with click functionality.
+- Account settings
 
 ---
 
@@ -59,19 +60,13 @@ The app automatically uses this key via BuildConfig.NEWS_API_KEY.
 
 Dependencies Used
 
-Retrofit – For networking and API calls
-
-Glide – For image loading
-
-Material Components – For modern UI elements (TextInputLayout, buttons)
-
-RecyclerView – To display the news list
-
-Kotlin Coroutines & Flow – For asynchronous operations
-
-Room - For local caching
-
-Hilt - dependency injection
-
-swipetorefresh and shimmer
-
+- Retrofit + Okhttp – For networking and API calls
+- Glide – For image loading
+- Material Components – For modern UI elements (TextInputLayout, buttons)
+- RecyclerView – To display the news list
+- Kotlin Coroutines & Flow – For asynchronous operations
+- Room - For local caching
+- Hilt - dependency injection
+- swipetorefresh and shimmer
+- Workmanager - For background task
+- Firebase Auth
